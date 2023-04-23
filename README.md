@@ -4,7 +4,7 @@ Exploring the intersection of computer electronics and datascience
 This works!
 
 Whats Next:
-Need to integrate this with Raspberry Pi robot. In progress!
+Need to integrate this with bot. In progress!
 
 
 
