@@ -1,4 +1,4 @@
-# mobile_system_interface
+# mobile_motion_control
 Exploring the intersection of computer electronics and datascience
 
 This works!
